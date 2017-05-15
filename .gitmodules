@@ -10,3 +10,6 @@
 [submodule "Sonnich-Lindqvist"]
 	path = Sonnich-Lindqvist
 	url = git@github.com:fdcdotneteducation/DotNetEducation.git
+[submodule "Kent-Corel-Bench"]
+	path = Kent-Corel-Bench
+	url = git@github.com:fdcdotneteducation/DotNetEducation.git
