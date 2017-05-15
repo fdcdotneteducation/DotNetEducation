@@ -7,3 +7,6 @@
 [submodule "Jørgen-Harreby"]
 	path = Jørgen-Harreby
 	url = git@github.com:fdcdotneteducation/DotNetEducation.git
+[submodule "Sonnich-Lindqvist"]
+	path = Sonnich-Lindqvist
+	url = git@github.com:fdcdotneteducation/DotNetEducation.git
