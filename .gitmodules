@@ -4,3 +4,6 @@
 [submodule "Gregers-Sornn-Friese"]
 	path = Gregers-Sornn-Friese
 	url = git@github.com:fdcdotneteducation/DotNetEducation.git
+[submodule "Jørgen-Harreby"]
+	path = Jørgen-Harreby
+	url = git@github.com:fdcdotneteducation/DotNetEducation.git
